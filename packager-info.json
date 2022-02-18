@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://yf-ssq.thiru13.foodapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.yf-ssq.thiru13.foodapp.exp.direct",
+  "ngrokPid": 8040,
+  "webpackServerPort": null
+}

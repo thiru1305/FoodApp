@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FoodApp",
+    "slug": "FoodApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/images/icon.png",
+    "splash": {
+      "image": "./app/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/images/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/images/favicon.png"
+    },
+    "description": "A mobile application based on this design from : https://www.figma.com/file/gfIboy4J44lvD9CoDr62rH/Food-App?node-id=1%3A3 \n"
+  }
+}
